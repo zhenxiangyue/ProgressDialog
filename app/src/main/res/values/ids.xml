@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_title_name" type="id" />
+    <item name="tv_left_text" type="id" />
+    <item name="tv_left_img" type="id" />
+    <item name="tv_right_text" type="id" />
+    <item name="tv_right_img" type="id" />
+
+</resources>

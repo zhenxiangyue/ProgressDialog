@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="left_text">返回</string>
+    <string name="right_text">提示</string>
+    <string name="title_tv">标题1</string>
+    <string name="title_activity_recycler_view">RecyclerViewActivity</string>
+    <string name="title_activity_show_dialog">ShowDialogActivity</string>
+</resources>
